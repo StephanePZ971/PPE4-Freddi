@@ -1,5 +1,5 @@
-# PPE4-Freddi
-Projet de PPE bts sio2
+# PPE4-Freddi 
+Projet de PPE BTS SIO2
 Ce projet consiste  à développer les différentes composantes d'une application Web appuyée sur une base de données.
 
 *****Le projet*****
